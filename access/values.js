@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "27.07.2004"; // Дата рождения
-var fullname = "Пряжников Никита Андреевич" // ФИО
+var fullname = "Пряжніков Микита Андрійович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
