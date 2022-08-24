@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "27.07.2004"; // Дата рождения
-var fullname = "Пряжніков Микита Андрійович" // ФИО
+var birthdate = "05.07.2004"; // Дата рождения
+var fullname = "Лінник Ірина Костянтинівна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
